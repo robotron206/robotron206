@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @robotron206
+- 👋 Hi, I’m Nikunj Shrestha
 - 👀 I’m interested in Github.
 - 🌱 I’m currently learning Github.
 - 💞️ I’m looking to collaborate on Github projects.
