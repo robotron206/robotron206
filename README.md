@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Nikunj Shrestha
+- 👋 Hi, I’m Nikunj Shrestha.
 - 👀 I’m interested in Github.
-- 🌱 I’m currently learning Github.
+- 🌱 I’m currently learning Warcrimes.
 - 💞️ I’m looking to collaborate on Github projects.
-- 📫 How to reach me is through Github
+- 📫 How to reach me is through Github.
 
 <!---
 robotron206/robotron206 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
