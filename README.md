@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nikunj Shrestha.
 - 👀 I’m interested in Github.
 - 🌱 I’m currently learning Warcrimes.
-- 💞️ I’m looking to collaborate on Github projects.
+- 💞️ I’m looking to collaborate on warcrime projects.
 - 📫 How to reach me is through Github.
 
 <!---
